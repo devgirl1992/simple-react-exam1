@@ -1,0 +1,17 @@
+
+body {
+  background-color: rgb(174, 253, 253);
+  box-sizing: border-box;
+}
+
+.Output {
+  width: 60%;
+  padding: 20px;
+  margin: auto;
+  border:2px solid blue;
+  margin-bottom: 25px;
+  font-weight: bolder;
+  font-style: italic;
+  text-align: center;
+
+}

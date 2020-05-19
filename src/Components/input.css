@@ -1,0 +1,15 @@
+body {
+  box-sizing: border-box;
+}
+
+.Input {
+  border: 2px solid blue;
+  background-color: cyan;
+  margin: 10px;
+  padding: 15px;
+ 
+}
+
+.inputFild {
+  border: 2px solid blue;
+}
